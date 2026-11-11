@@ -1,0 +1,8 @@
+MONEY AI v1.0
+
+Aplicativo web instalável (PWA) para Android.
+Inclui análise heurística simples de instruções, organização de rascunhos e registro manual de pagamentos.
+
+Limites: não controla outros aplicativos, não envia tarefas, não possui IA online nesta versão e não executa atividades em segundo plano. A análise pode errar; leia sempre as instruções completas.
+
+Para publicar: GitHub > Settings > Pages > Deploy from a branch > main > /(root). Se o repositório for privado e Pages não estiver disponível no seu plano, torne-o público ou use outra hospedagem HTTPS.
