@@ -1,0 +1,9 @@
+{
+  "name": "MONEY AI",
+  "short_name": "MONEY AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#07110d",
+  "description": "Painel de tarefas e assistência inteligente"
+}
